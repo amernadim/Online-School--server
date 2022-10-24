@@ -1,10 +1,51 @@
 [
   {
     "id" : 1 ,
-    "title" : "",
-    "img" : "" ,
-    "desciption" : "" ,
-    "fee" : 1 ,
-    "video" : 1 
+    "title" : "Spoken English",
+    "img" : "https://www.internationalieltscentre.com/wp-content/uploads/2019/09/spoken-english.jpg" ,
+    "desciption" : "Improve your communication skills in the workplace with a focus on grammar, vocabulary and pronunciation" ,
+    "fee" : 1999,
+    "video" : 89 
+  },
+  {
+    "id" : 2 ,
+    "title" : "IELTS",
+    "img" : "https://www.campus.com.bd/wp-content/uploads/2016/10/Best-Coaching-Centers-for-IELTS-in-Dhaka-Bangladesh.jpg" ,
+    "desciption" : " You can learn tips, hacks and techniques according to the question type of IELTS speaking, reading, listening and writing test." ,
+    "fee" : 2999,
+    "video" : 112 
+  },
+  {
+    "id" : 3 ,
+    "title" : "Web Design",
+    "img" : "https://bangladeshwebsolution.com/wp-content/uploads/2018/05/web-design-company-bangladesh.png" ,
+    "desciption" : "This Web Design course will provide you with the complete guideline to start your career as a web designer." ,
+    "fee" : 1000,
+    "video" : 66  
+  },
+  {
+    "id" : 4 ,
+    "title" : "Graphic Design",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FGPXuMG3ldUxm3joUANTo77KXlyv5d7QRw&usqp=CAU" ,
+    "desciption" : "In this course, will teach you the basics of Adobe Photoshop and walk you through the tools of this software." ,
+    "fee" : 599,
+    "video" : 36  
+  },
+  {
+    "id" : 5 ,
+    "title" : "Digital Marketing",
+    "img" : "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/2427717_free%20digital%20marketing%20course.jpg" ,
+    "desciption" : "The Digital Marketing Courses focus on the ways to strengthen the knowledge and understanding of the online marketing system so that business houses whether big, small-medium or new startups are at the advantage of being able to perform successful Digital Marketing campaigns to grow their business in the web world." ,
+    "fee" : 899,
+    "video" : 49  
+  },
+  {
+    "id" : 6 ,
+    "title" : "Programing For Kids",
+    "img" : "https://www.britishcouncil.org.bd/sites/default/files/microbit2.jpg" ,
+    "desciption" : "By teaching them how websites, games and applications work and how to develop them.By teaching the basics of a useful programming language.By introducing them to the world of coding, as well as application, website, and game development." ,
+    "fee" : 2099,
+    "video" : 55  
   }
+   
 ]
