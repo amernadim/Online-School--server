@@ -17,11 +17,11 @@
   },
   {
     "id" : 3 ,
-    "title" : "Web Design",
-    "img" : "https://bangladeshwebsolution.com/wp-content/uploads/2018/05/web-design-company-bangladesh.png" ,
-    "desciption" : "This Web Design course will provide you with the complete guideline to start your career as a web designer." ,
-    "fee" : 1000,
-    "video" : 66  
+    "title" : "English Grammar Course",
+    "img" : "https://i.pinimg.com/originals/87/97/bd/8797bd3f29915b5eb058800d9f819a53.jpg" ,
+    "desciption" : "This course includes Parts of Speech, Number, Gender, Article, Sentence, Tense, Right form of Verbs, Transformation, Voice, Narration, Modifiers, Connectors, and much more. So what are you waiting for? Enroll in this course today and become the boss of English grammar!" ,
+    "fee" : 899,
+    "video" : 49  
   },
   {
     "id" : 4 ,
@@ -33,12 +33,13 @@
   },
   {
     "id" : 5 ,
-    "title" : "Digital Marketing",
-    "img" : "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/2427717_free%20digital%20marketing%20course.jpg" ,
-    "desciption" : "The Digital Marketing Courses focus on the ways to strengthen the knowledge and understanding of the online marketing system so that business houses whether big, small-medium or new startups are at the advantage of being able to perform successful Digital Marketing campaigns to grow their business in the web world." ,
-    "fee" : 899,
-    "video" : 49  
+    "title" : "Web Design",
+    "img" : "https://bangladeshwebsolution.com/wp-content/uploads/2018/05/web-design-company-bangladesh.png" ,
+    "desciption" : "This Web Design course will provide you with the complete guideline to start your career as a web designer." ,
+    "fee" : 1000,
+    "video" : 66  
   },
+ 
   {
     "id" : 6 ,
     "title" : "Programing For Kids",
